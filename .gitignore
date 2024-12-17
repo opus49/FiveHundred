@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.env
+
+# Logs
+*.log
+*.out
+*.err
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+.junit.xml
+
+# MyPy and other static analysis
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*~ 
+*.sublime-project
+*.sublime-workspace
+
+# Distribution / Packaging
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+
+# PIP cache
+pip-wheel-metadata/
+__pypackages__
